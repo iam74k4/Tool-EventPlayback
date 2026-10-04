@@ -208,7 +208,7 @@ jobs:
           ### Download
 
           `EventPlayback.exe` below. Windows only; run from source on macOS and
-          Linux. See the [README](https://github.com/iam74k4/EventPlayback#readme)
+          Linux. See the [README](https://github.com/iam74k4/Tool-EventPlayback#readme)
           for the permissions each platform needs.
         draft: false
         prerelease: false

@@ -29,7 +29,7 @@ dev = [
 eventplayback = "eventplayback.__main__:main"
 
 [project.urls]
-Homepage = "https://github.com/iam74k4/EventPlayback"
+Homepage = "https://github.com/iam74k4/Tool-EventPlayback"
 
 [tool.setuptools.packages.find]
 where = ["src"]

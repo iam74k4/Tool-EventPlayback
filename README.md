@@ -1,6 +1,6 @@
 # EventPlayback
 
-![License](https://img.shields.io/github/license/iam74k4/EventPlayback?style=flat-square)
+![License](https://img.shields.io/github/license/iam74k4/Tool-EventPlayback?style=flat-square)
 ![Python](https://img.shields.io/badge/python-3.10+-blue?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=flat-square)
 
@@ -55,11 +55,11 @@ A lightweight application for recording and playing back mouse and keyboard inpu
 ### Executable File (Recommended)
 
 **Download from GitHub Releases** (latest stable version):
-- Download the latest version of `EventPlayback.exe` from the [Releases page](https://github.com/iam74k4/EventPlayback/releases)
+- Download the latest version of `EventPlayback.exe` from the [Releases page](https://github.com/iam74k4/Tool-EventPlayback/releases)
 - After downloading, you can use it by simply running the exe file
 
 **Download from GitHub Actions Artifacts** (development version or manual builds):
-- Select the latest build from the [Actions page](https://github.com/iam74k4/EventPlayback/actions)
+- Select the latest build from the [Actions page](https://github.com/iam74k4/Tool-EventPlayback/actions)
 - Download `EventPlayback-exe` from the "Artifacts" section
 - Note: Artifacts are kept for 30 days only
 
